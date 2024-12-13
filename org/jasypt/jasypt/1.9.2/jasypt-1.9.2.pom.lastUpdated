@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 29 14:08:46 IST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1693298326290
+https\://repo.maven.apache.org/maven2/.lastUpdated=1693298326311
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.jasypt\:jasypt\:pom\:1.9.2 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/jasypt/jasypt/1.9.2/jasypt-1.9.2.pom. Error code 401, 
