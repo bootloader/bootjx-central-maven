@@ -1,0 +1,24 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 16 23:34:23 IST 2024
+@default-spring-repo-https\://repo.spring.io/plugins-release/.lastUpdated=1693219629737
+http\://repository.aspose.com/repo/.lastUpdated=1710612263629
+https\://jcenter.bintray.com/.error=
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jaspersoft-repo/.error=
+https\://repo1.maven.org/maven2/.error=
+http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1693219635186
+@default-twitter4j.org-http\://twitter4j.org/maven2/.lastUpdated=1693219709114
+https\://jitpack.io/.error=
+http\://jasperreports.sourceforge.net/maven2/.error=
+https\://jcenter.bintray.com/.lastUpdated=1693219352026
+https\://repo1.maven.org/maven2/.lastUpdated=1693218877749
+https\://repo.spring.io/plugins-release/.error=Could not transfer artifact org.springframework.mobile\:spring-mobile-device\:jar\:sources\:2.0.0.M3 from/to spring-repo (https\://repo.spring.io/plugins-release)\: Access denied to https\://repo.spring.io/plugins-release/org/springframework/mobile/spring-mobile-device/2.0.0.M3/spring-mobile-device-2.0.0.M3-sources.jar. Error code 401, 
+http\://twitter4j.org/maven2/.error=Could not transfer artifact org.springframework.mobile\:spring-mobile-device\:jar\:sources\:2.0.0.M3 from/to twitter4j.org (http\://twitter4j.org/maven2)\: Access denied to http\://twitter4j.org/maven2/org/springframework/mobile/spring-mobile-device/2.0.0.M3/spring-mobile-device-2.0.0.M3-sources.jar. Error code 403, 
+https\://repo.maven.apache.org/maven2/.lastUpdated=1693219345679
+http\://repository.aspose.com/repo/.error=
+http\://jcenter.bintray.com/.error=Could not transfer artifact org.springframework.mobile\:spring-mobile-device\:jar\:sources\:2.0.0.M3 from/to central (http\://jcenter.bintray.com)\: Connection reset
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jaspersoft-repo/.lastUpdated=1693219636906
+https\://repo.adobe.com/nexus/content/repositories/public/.lastUpdated=1693219351514
+https\://repo.maven.apache.org/maven2/.error=
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1693218877939
+https\://jitpack.io/.lastUpdated=1693219628203
+https\://repo.adobe.com/nexus/content/repositories/public/.error=
